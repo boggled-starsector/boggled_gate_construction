@@ -1,0 +1,2 @@
+id,name,cost mult,build time,income,upkeep,income,downgrade,upgrade,tags,data,image,plugin,desc,order
+ASTRAL_GATE,Astral Gate,0,0,0,2000,,,,structure,,graphics/icons/industry/astral_gate_industry.png,data.campaign.econ.industries.Astral_Gate,"Greatly improves accessibility for all same-faction markets in the system, but prohibitively expensive to maintain. Flagrantly illegal under Hegemony law and the apex of heresy according to the Luddic Church.",
