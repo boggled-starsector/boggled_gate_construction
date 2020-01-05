@@ -1,0 +1,7 @@
+id,trigger,conditions,script,text,options,notes
+# gate interactions,,,,,,
+astralGateOpenDialog,OpenInteractionDialog,$tag:boggled_astral_gate,"ShowDefaultVisual
+PrintDescription 1
+AddText ""To traverse the gate or select the destination gate, add the respective abilities to your ability bar.""
+SetShortcut astralGateLeave ""ESCAPE""",,astralGateLeave:Leave,
+astralGateLeave,DialogOptionSelected,$option == astralGateLeave,DismissDialog,,,
