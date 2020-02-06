@@ -1,4 +1,5 @@
 {
 	"boggledGateStationEnabled":true,
 	"boggledAstralGateRespectBlacklist":true,
+	"boggledAstralGateConstructionLowPerformanceModeEnabled":false,
 }
